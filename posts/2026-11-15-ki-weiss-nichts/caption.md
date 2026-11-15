@@ -6,4 +6,6 @@ Für Ideen, Entwürfe und Erklärungen ist KI richtig gut. Fakten, Zahlen und Qu
 
 Folgen für mehr KI im Alltag. Speichern, damit du es wiederfindest.
 
-#KI #KünstlicheIntelligenz #ChatGPT #Claude #KIerklärt #Halluzination #KIimAlltag #Technik
+Erstellt mit KI-Unterstützung (Claude).
+
+#KI #KünstlicheIntelligenz #ChatGPT #Claude #KIerklärt #Halluzination #KIimAlltag #Technik #KIgeneriert

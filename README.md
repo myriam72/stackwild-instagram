@@ -25,6 +25,19 @@ posts/
 4. **Veröffentlichen:** Claude postet über Windsor.ai und trägt die Instagram-ID ein.
    → `"status": "veröffentlicht"`.
 
+## KI-Kennzeichnung
+
+Jeder Post mit KI-Anteil (Grafiken, Text, Video, Stimme) wird gekennzeichnet:
+
+- **Text:** Die letzte Zeile vor den Hashtags lautet
+  `Erstellt mit KI-Unterstützung (Claude).` – bei rein KI-generierten Bildern/Videos
+  `Bilder/Video KI-generiert.` Dazu der Hashtag `#KIgeneriert`.
+- **Instagram:** Das KI-Label lässt sich über die Schnittstelle nicht setzen; im Text steht der Hinweis immer.
+- **TikTok:** Schalter „KI-generierte Inhalte“ (`is_aigc`) immer an.
+- **YouTube:** „Veränderte oder synthetische Inhalte“ auf Ja, wenn realistisch wirkende KI-Inhalte enthalten sind; Hinweis zusätzlich in der Beschreibung.
+
+`post.json` hält fest, wie gekennzeichnet wurde (`ki_kennzeichnung`).
+
 Ohne ausdrückliches Okay im Chat wird nichts veröffentlicht. Entwürfe bleiben
 lokal und werden erst nach der Freigabe gepusht.
 

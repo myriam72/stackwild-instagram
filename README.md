@@ -25,7 +25,19 @@ posts/
 4. **Veröffentlichen:** Claude postet über Windsor.ai und trägt die Instagram-ID ein.
    → `"status": "veröffentlicht"`.
 
-Ohne ausdrückliches Okay im Chat wird nichts veröffentlicht.
+Ohne ausdrückliches Okay im Chat wird nichts veröffentlicht. Entwürfe bleiben
+lokal und werden erst nach der Freigabe gepusht.
+
+## Was hier nie hineinkommt
+
+Das Repo ist öffentlich, jeder Commit bleibt sichtbar.
+
+- keine Zugangsdaten, Tokens, API-Schlüssel, `.env`-Dateien
+- keine privaten Mailadressen: Commits laufen über
+  `187094183+myriam72@users.noreply.github.com` (lokal in `.git/config` gesetzt)
+- keine Entwürfe, Notizen, Redaktionspläne, Statistiken
+- keine Metadaten in Medien: Bilder werden vor dem Commit ohne EXIF/GPS neu gespeichert
+- keine Screenshots, auf denen Mails, Kundendaten, Pfade mit Namen oder Tokens zu sehen sind
 
 ## Technische Vorgaben von Instagram
 

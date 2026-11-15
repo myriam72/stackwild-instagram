@@ -1,0 +1,37 @@
+# stackwild-instagram
+
+Ablage für Bilder und Videos des Instagram-Kanals **StackWild**. Das Repo ist
+öffentlich, weil Instagram Medien nur von öffentlichen Adressen abholt. Hier
+liegt nur, was ohnehin auf Instagram erscheint.
+
+## Aufbau
+
+```
+posts/
+  2026-11-20-claude-code-erste-schritte/
+    01.jpg … 10.jpg   Karussell-Bilder in Reihenfolge (oder video.mp4)
+    caption.md        Text und Hashtags, genau so wie er gepostet wird
+    post.json         Typ, Status, Instagram-ID nach Veröffentlichung
+```
+
+## Ablauf pro Post
+
+1. **Entwurf:** Claude legt den Ordner an, baut die Medien und schreibt `caption.md`.
+   `post.json` → `"status": "entwurf"`.
+2. **Freigabe:** Myriam sieht Bilder und Text durch und gibt im Chat frei.
+   → `"status": "freigegeben"`.
+3. **Push:** Medien sind dann unter
+   `https://raw.githubusercontent.com/myriam72/stackwild-instagram/main/posts/<ordner>/<datei>` erreichbar.
+4. **Veröffentlichen:** Claude postet über Windsor.ai und trägt die Instagram-ID ein.
+   → `"status": "veröffentlicht"`.
+
+Ohne ausdrückliches Okay im Chat wird nichts veröffentlicht.
+
+## Technische Vorgaben von Instagram
+
+| Format | Vorgaben |
+|---|---|
+| Einzelbild / Karussell | JPEG, max. 8 MB, Seitenverhältnis 4:5 bis 1.91:1 (empfohlen 1080×1350), Karussell 2–10 Bilder |
+| Reel | MP4/MOV, 3 s – 15 min, max. 1 GB, 9:16 (1080×1920) |
+| Story | JPEG oder MP4/MOV (3–60 s), 9:16, kein Text |
+| Text | max. 2.200 Zeichen |

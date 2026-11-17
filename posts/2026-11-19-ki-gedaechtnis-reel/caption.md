@@ -1,22 +1,37 @@
 Die KI erinnert sich nicht an dich.
 
+Kurz erklärt
 Ein Sprachmodell lernt in deinem Gespräch nichts dazu. Bei jeder Antwort bekommt es den bisherigen Chat noch einmal mitgeschickt und liest ihn von vorn. Neuer Chat heißt: leeres Blatt.
 
-Wenn ChatGPT oder Claude dich trotzdem wiedererkennen, steckt eine Gedächtnisfunktion dahinter. Die App legt Notizen über dich an und gibt sie in neuen Chats mit. Das gibt es nicht in jeder App und nicht in jedem Tarif, und du kannst es abschalten.
+Genauer hingeschaut
+Wie viel Text auf einmal mitgeschickt werden kann, ist begrenzt. Das nennt man Kontextfenster. In sehr langen Chats kann es deshalb passieren, dass Frühes nicht mehr richtig berücksichtigt wird. Ein neuer Chat mit einer kurzen Zusammenfassung hilft dann oft mehr als die nächste Nachfrage.
 
-Zum Nachsehen, je nach App, Tarif und Version:
-ChatGPT: Einstellungen > Personalisierung, dort der Bereich Gedächtnis. Gespeichertes kannst du ansehen und löschen.
-Claude: In den Einstellungen gibt es einen Bereich für das Gedächtnis (Memory). Dort stehen die gespeicherten Themen, die du bearbeiten oder löschen kannst.
-Schneller geht es mit einem Satz im normalen Chat: „Was weißt du über mich?“ Vollständig muss die Antwort nicht sein, genauer ist die Liste in den Einstellungen. Temporäre bzw. Inkognito-Chats nutzen das Gedächtnis nicht.
+Wenn ChatGPT oder Claude dich trotzdem wiedererkennen, steckt eine Gedächtnisfunktion dahinter. Die App legt Notizen über dich an und gibt sie in neuen Chats mit. Das Modell selbst bleibt dabei, wie es ist. Die Funktion gibt es nicht in jeder App und nicht in jedem Tarif, und du kannst sie abschalten.
+
+Nachsehen kannst du, je nach App und Version:
+ChatGPT: Einstellungen > Personalisierung > Gedächtnis.
+Claude: Einstellungen, Bereich Gedächtnis (Memory).
+Temporäre bzw. Inkognito-Chats nutzen das Gedächtnis nicht.
+
+Zum Kopieren
+„Was weißt du über mich?“
+Zeigt dir schnell, was gespeichert ist. Vollständig muss die Antwort nicht sein, genauer ist die Liste in den Einstellungen.
+
+„Fass unser Gespräch in fünf Punkten zusammen, damit ich in einem neuen Chat weitermachen kann.“
+Wenn ein Chat sehr lang geworden ist.
+
+„Merk dir für die Zukunft: Ich möchte kurze Antworten ohne Fachbegriffe.“
+Wenn deine App ein Gedächtnis hat und du nicht jedes Mal dasselbe erklären willst.
+
+Darauf achten
+Was sich die KI merkt, liegt beim Anbieter. Schreib nichts hinein, was du dort nicht gespeichert haben möchtest.
 
 Das Gespräch im Video ist ein ausgedachtes Beispiel.
 
-Hast du schon mal nachgesehen, was deine KI über dich gespeichert hat? Schreib einfach Ja oder Nein in die Kommentare.
+Hast du schon mal nachgesehen, was deine KI über dich gespeichert hat? Ja oder nein?
 
-Speichern, dann findest du die Wege später wieder.
-
-Nächster Teil: Warum die KI nicht weiß, was gestern passiert ist. Folge @stackwild.de, damit du ihn nicht verpasst.
+Teil 2 von „KI erklärt“. Nächster Teil: Warum die KI nicht weiß, was gestern passiert ist. Folge @stackwild.de, damit du ihn nicht verpasst.
 
 Erstellt mit KI-Unterstützung (Claude).
 
-#KI #KIerklärt #ChatGPT #Claude #Datenschutz #KIimAlltag #KIgeneriert
+#KIerklärt #KI #ChatGPT #Datenschutz #KIgeneriert

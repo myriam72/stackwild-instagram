@@ -2,7 +2,9 @@
   "typ": "karussell",
   "serie": "KI erklärt #3",
   "bilder": ["01.jpg", "02.jpg", "03.jpg", "04.jpg", "05.jpg", "06.jpg"],
-  "status": "freigegeben",
+  "status": "veröffentlicht",
+  "veroeffentlicht_am": "2026-11-18",
+  "instagram_media_id": "18183273088430433",
   "geplant_fuer": "2026-11-18",
   "ki_kennzeichnung": "Zeile „Erstellt mit KI-Unterstützung (Claude).“ und #KIgeneriert in der Caption"
 }

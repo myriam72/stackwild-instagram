@@ -5,7 +5,9 @@
   "cover": "reel-cover.jpg",
   "share_to_feed": true,
   "erster_kommentar": "Hat dir eine KI schon mal veraltete Infos als aktuell verkauft? Ja oder nein?",
-  "status": "freigegeben",
+  "status": "veröffentlicht",
+  "veroeffentlicht_am": "2026-11-20",
+  "instagram_media_id": "18438249037195353",
   "geplant_fuer": "2026-11-20T18:00+01:00",
   "ki_kennzeichnung": "Zeile „Erstellt mit KI-Unterstützung (Claude).“ und #KIgeneriert in der Caption, „Mit KI-Unterstützung erstellt“ im Video"
 }

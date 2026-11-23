@@ -3,7 +3,9 @@
   "bild": "story.jpg",
   "format": "Wusstest du?",
   "bezug": "Gleiche Frage, andere Antwort",
-  "status": "freigegeben",
+  "status": "veröffentlicht",
   "geplant_fuer": "2026-11-23T19:00+01:00",
-  "ki_kennzeichnung": "Hinweis „Mit KI-Unterstützung erstellt“ auf der Tafel (Storys haben kein Textfeld)"
+  "ki_kennzeichnung": "Hinweis „Mit KI-Unterstützung erstellt“ auf der Tafel (Storys haben kein Textfeld)",
+  "veroeffentlicht_am": "2026-11-23",
+  "instagram_media_id": "18133043839882591"
 }
